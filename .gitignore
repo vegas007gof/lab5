@@ -131,3 +131,7 @@ dmypy.json
 /pyProj/.idea
 /pyProj/venv
 
+pyProj/diagram/д.drawio
+pyProj/diagram/1.png
+pyProj/diagram/диаграмма2.drawio
+pyProj/diagram/инд1.png
